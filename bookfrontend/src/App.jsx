@@ -1,14 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
 import {Container} from 'react-bootstrap';
 import {Route} from 'react-router-dom';
 import Header from './components/Header'
-import SaveForm from './pages/user/SaveForm';
-import Home from './pages/book/Home';
-import LoginForm from './pages/user/LoginForm';
-import JoinForm from './pages/user/JoinForm';
-import UpdateForm from './pages/user/UpdateForm';
-import Detail from './pages/book/Detail';
+import SaveForm from './components/pages/user/SaveForm'
+import Home from './components/pages/book/Home';
+import LoginForm from './components/pages/user/LoginForm';
+import JoinForm from './components/pages/user/JoinForm';
+import UpdateForm from './components/pages/user/UpdateForm';
+import Detail from './components/pages/book/Detail';
+
 
 function App() {
   return (
@@ -26,4 +27,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
