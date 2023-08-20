@@ -38,9 +38,9 @@
   <p align="center">
     A simple CRUD application that allows users to add, edit, and delete books from a database.
     <br />
-    <a href="https://github.com/ucmo-cs/DemoProject"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+ 
 
   </p>
 </div>
@@ -104,11 +104,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Have Node.js lts version installed 
+* Have OpenJDK 17 installed
+
 
 ### Installation
 
