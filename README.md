@@ -146,10 +146,15 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To run the frontend go the path of the frontend project and run the following command.
+To run the frontend in development server go the path of the frontend project and run the following command.
    ```sh
    npm run dev 
    ```
+
+To build the frontend project as static files first go the path of the frontend project and run the following command.
+   ```sh
+    npm run build 
+  ```
 
 To Run the backend go to the path of the backend project and run the following command.
    ```sh
