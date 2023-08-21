@@ -17,7 +17,7 @@
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+--> 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -90,7 +90,10 @@ This Project is suppose to supply an a example for UCMO Computer Science student
 ### Built With
 
 * [![React][React.js]][React-url]
+* [![Redux][Redux.js]][Redux-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![Spring][Spring.io]][Spring.io-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -194,3 +197,7 @@ To Run the backend go to the path of the backend project and run the following c
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[Spring.io-url]: https://spring.io/
+[Spring.io]: https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot
+[Redux.js]: https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+[Redux-url]: https://redux.js.org/
