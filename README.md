@@ -129,7 +129,7 @@ To get a local copy up and running follow these simple example steps.
 4. Install Gradle dependencies
    
    ```sh
-    gradle build
+    ./gradlew build
     ```
 5. go to the path of the front end project
    ```sh
