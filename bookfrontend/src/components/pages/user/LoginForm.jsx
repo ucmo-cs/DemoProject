@@ -1,9 +1,8 @@
-import React from 'react';
  
 function LoginForm() {
   return (
     <div>
-            Login page
+            Login page 
     </div>
   );
 }
